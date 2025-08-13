@@ -91,3 +91,9 @@ CASE
     WHEN vehicle_type LIKE 'Van%' OR vehicle_type LIKE 'Goods%' THEN 'Van'
     ELSE 'Other'
 END;
+
+## 📌 Author
+**Kaliraj R**  
+MBA Graduate | Data Analyst  
+📧 kalirajkarthi3@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kaliraj-r-3s)
